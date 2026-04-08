@@ -1,29 +1,29 @@
 # Aws-cloud-projects
 # ☁️ AWS Cloud Projects – Ami
 
-## 👨‍💻 About Me
+## About Me
 
 AWS Certified Solutions Architect – Associate with hands-on experience in designing scalable, secure, and cost-effective cloud architectures. Passionate about building real-world AWS solutions and solving complex problems.
 
-## 🏆 Certification
+## Certification
 
 * AWS Certified Solutions Architect – Associate (SAA-C03)
 
-## 🚀 Projects Included
+## Projects Included
 
-### 1️⃣ Scalable E-Commerce Architecture
+### 1️. Scalable E-Commerce Architecture
 
 * Designed a highly available 3-tier architecture
 * Used EC2, ALB, Auto Scaling, RDS (Multi-AZ), S3, CloudFront
 * Focus: High Availability, Fault Tolerance
 
-### 2️⃣ Secure VPC Architecture
+### 2️. Secure VPC Architecture
 
 * Built a secure network with public & private subnets
 * Implemented Bastion Host, NAT Gateway
 * Focus: Security & Network Isolation
 
-### 3️⃣ Serverless Application
+### 3️. Serverless Application
 
 * Built using Lambda, API Gateway, DynamoDB
 * Event-driven architecture with S3 triggers
