@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "AWS Cloud Projects - Ami"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/aws-cloud-projects.git
+git push -u origin main
