@@ -30,8 +30,8 @@ Implemented a highly available and scalable 3-tier architecture to handle high t
 6. Integrated S3 + CloudFront
 
 ## 📸 Screenshots
-![image alt](<img width="516" height="518" alt="image" src="https://github.com/user-attachments/assets/9ed8beda-64a8-423c-8ec7-5f63e2b093ee" />
-)
+![image alt](![architechture](https://github.com/user-attachments/assets/6eb5df78-5c05-42e6-86ea-ddd426a14901))
+
 ## 🎯 Outcome
 
 Designed a production-ready scalable system capable of handling traffic spikes efficiently.
